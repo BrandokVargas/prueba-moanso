@@ -24,22 +24,33 @@ namespace CONVERTIDOR_ESCALA_0_1
             double green = Convert.ToInt32(this.txtGreen.Text);
             double blue = Convert.ToInt32(this.txtBlue.Text);
 
-            double r,g,b;
+            double re,gr,bl;
 
 
 
             //Convert
-            const int porcentaje = 100;
-            const int ultimoValorRgb = 255;
-            r = ((red * porcentaje) / ultimoValorRgb) / porcentaje;
-            g = ((green * porcentaje) / ultimoValorRgb) / porcentaje;
-            b = ((blue * porcentaje) / ultimoValorRgb) / porcentaje;
+            const int porcentaje = 80;
+            const int ultimoValorRgb = 225;
+            re = ((red * porcentaje) / ultimoValorRgb) / porcentaje;
+            gr = ((green * porcentaje) / ultimoValorRgb) / porcentaje;
+            bl = ((blue * porcentaje) / ultimoValorRgb) / porcentaje;
             
-            this.lblRed.Text = r.ToString("N4");
-            this.lblGreen.Text = g.ToString("N4");
-            this.lblBlue.Text = b.ToString("N4");
+            this.lblRed.Text = re.ToString("N4");
+            this.lblGreen.Text = gr.ToString("N4");
+            this.lblBlue.Text = bl.ToString("N4");
 
 
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form formulario = new Form2();
+            formulario.Show();
         }
     }
 }

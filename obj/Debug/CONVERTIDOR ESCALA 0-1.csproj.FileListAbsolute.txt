@@ -9,3 +9,15 @@ D:\CICLO 6\MODELAMIENTO\EJERCICIOS\CONVERTIDOR ESCALA 0-1\CONVERTIDOR ESCALA 0-1
 D:\CICLO 6\MODELAMIENTO\EJERCICIOS\CONVERTIDOR ESCALA 0-1\CONVERTIDOR ESCALA 0-1\obj\Debug\CONVERTIDOR ESCALA 0-1.csproj.CoreCompileInputs.cache
 D:\CICLO 6\MODELAMIENTO\EJERCICIOS\CONVERTIDOR ESCALA 0-1\CONVERTIDOR ESCALA 0-1\obj\Debug\CONVERTIDOR ESCALA 0-1.exe
 D:\CICLO 6\MODELAMIENTO\EJERCICIOS\CONVERTIDOR ESCALA 0-1\CONVERTIDOR ESCALA 0-1\obj\Debug\CONVERTIDOR ESCALA 0-1.pdb
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\bin\Debug\CONVERTIDOR ESCALA 0-1.exe.config
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\bin\Debug\CONVERTIDOR ESCALA 0-1.exe
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\bin\Debug\CONVERTIDOR ESCALA 0-1.pdb
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\obj\Debug\CONVERTIDOR ESCALA 0-1.csproj.AssemblyReference.cache
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\obj\Debug\CONVERTIDOR ESCALA 0-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\obj\Debug\CONVERTIDOR_ESCALA_0_1.Form1.resources
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\obj\Debug\CONVERTIDOR_ESCALA_0_1.Form2.resources
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\obj\Debug\CONVERTIDOR_ESCALA_0_1.Properties.Resources.resources
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\obj\Debug\CONVERTIDOR ESCALA 0-1.csproj.GenerateResource.cache
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\obj\Debug\CONVERTIDOR ESCALA 0-1.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\obj\Debug\CONVERTIDOR ESCALA 0-1.exe
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Ciclo 06\Modelamiento y analisis de software\T2\GITHUBMODIFICAR\prueba-moanso\obj\Debug\CONVERTIDOR ESCALA 0-1.pdb
